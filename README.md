@@ -10,20 +10,24 @@ This file shows a readme for commands run in git
  was ran to make a copy of the repository on local computer.
 
  After making changes and saving them,
-``` git status
+```
+ git status
 ```
 to view the changes waiting to be staged
 
-``` git add .
+``` 
+git add .
 ```
  was run to add all the the changes to the staging area
 
-``` git commit -m 'message'
+``` 
+git commit -m 'message'
 ```
 
  was run to commit the staged file.
 
-```git push 
+```
+git push 
 ```
  command was run to push the changes to the remote repository.
 
